@@ -1,0 +1,17 @@
+/* styles.css */
+
+body {
+    background-color: #42f595;
+}
+
+.menu-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+
+.menu-item h3 {
+    margin-bottom: 5px;
+}
